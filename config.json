@@ -1,0 +1,16 @@
+{
+	"memory_stats": {
+						"MEM_THRESHOLD_PER": 60
+					},
+	"cpu_stats":{
+					"CPU_THRESHOLD": 4
+				},
+	"process_stats":{
+							"limit": 5,
+							"memory_gt":100
+					},
+	"sys_boot_time":{
+						"choose": 1
+					}
+}
+
